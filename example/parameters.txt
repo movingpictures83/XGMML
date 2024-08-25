@@ -1,0 +1,8 @@
+data_file_name	PTR_species_filtered_metadata_major_AMR.csv
+bootfile	boot_strength.csv
+filename_dir	directed.csv
+filename_undir	undirected.csv
+network_csv_file	bn_correlation.csv
+triangle	triangle.txt
+diamond	diamond.txt
+star	star.txt

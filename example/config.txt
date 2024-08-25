@@ -1,0 +1,2 @@
+Prefix plugins/XGMML/example/
+Plugin XGMML inputfile parameters.txt outputfile style
